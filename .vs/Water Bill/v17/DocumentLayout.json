@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Cisco Packet Tracer 8.2.2\\saves\\Water Bill\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1498CE-4F1F-4413-BED4-43B0765F4B3B}|Water Bill\\Water Bill.csproj|C:\\Users\\DELL\\Cisco Packet Tracer 8.2.2\\saves\\Water Bill\\water bill\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F1498CE-4F1F-4413-BED4-43B0765F4B3B}|Water Bill\\Water Bill.csproj|solutionrelative:water bill\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1498CE-4F1F-4413-BED4-43B0765F4B3B}|Water Bill\\Water Bill.csproj|c:\\users\\dell\\cisco packet tracer 8.2.2\\saves\\water bill\\water bill\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1498CE-4F1F-4413-BED4-43B0765F4B3B}|Water Bill\\Water Bill.csproj|solutionrelative:water bill\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1498CE-4F1F-4413-BED4-43B0765F4B3B}|Water Bill\\Water Bill.csproj|c:\\users\\dell\\cisco packet tracer 8.2.2\\saves\\water bill\\water bill\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1498CE-4F1F-4413-BED4-43B0765F4B3B}|Water Bill\\Water Bill.csproj|solutionrelative:water bill\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1498CE-4F1F-4413-BED4-43B0765F4B3B}|Water Bill\\Water Bill.csproj|C:\\Users\\DELL\\Cisco Packet Tracer 8.2.2\\saves\\Water Bill\\water bill\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F1498CE-4F1F-4413-BED4-43B0765F4B3B}|Water Bill\\Water Bill.csproj|solutionrelative:water bill\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Cisco Packet Tracer 8.2.2\\saves\\Water Bill\\Water Bill\\Form2.cs",
+              "RelativeDocumentMoniker": "Water Bill\\Form2.cs",
+              "ToolTip": "C:\\Users\\DELL\\Cisco Packet Tracer 8.2.2\\saves\\Water Bill\\Water Bill\\Form2.cs",
+              "RelativeToolTip": "Water Bill\\Form2.cs",
+              "ViewState": "AQIAAOMAAAAAAAAAAAAAwIIBAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T08:49:46.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Cisco Packet Tracer 8.2.2\\saves\\Water Bill\\Water Bill\\Form2.cs",
+              "RelativeDocumentMoniker": "Water Bill\\Form2.cs",
+              "ToolTip": "C:\\Users\\DELL\\Cisco Packet Tracer 8.2.2\\saves\\Water Bill\\Water Bill\\Form2.cs [Design]",
+              "RelativeToolTip": "Water Bill\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T01:31:53.015Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Cisco Packet Tracer 8.2.2\\saves\\Water Bill\\Water Bill\\Form1.cs",
+              "RelativeDocumentMoniker": "Water Bill\\Form1.cs",
+              "ToolTip": "C:\\Users\\DELL\\Cisco Packet Tracer 8.2.2\\saves\\Water Bill\\Water Bill\\Form1.cs",
+              "RelativeToolTip": "Water Bill\\Form1.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T06:31:29.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Cisco Packet Tracer 8.2.2\\saves\\Water Bill\\Water Bill\\Form1.cs",
+              "RelativeDocumentMoniker": "Water Bill\\Form1.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Documents\\C#\\Water Bill\\Water Bill\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\OneDrive\\Documents\\C#\\Water Bill\\Water Bill\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T14:22:21.287Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

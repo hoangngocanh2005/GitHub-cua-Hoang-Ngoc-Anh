@@ -1,0 +1,19 @@
+C:\Users\DELL\OneDrive\Documents\C#\Water Bill\Water Bill\bin\Debug\net8.0-windows\Water Bill.exe
+C:\Users\DELL\OneDrive\Documents\C#\Water Bill\Water Bill\bin\Debug\net8.0-windows\Water Bill.deps.json
+C:\Users\DELL\OneDrive\Documents\C#\Water Bill\Water Bill\bin\Debug\net8.0-windows\Water Bill.runtimeconfig.json
+C:\Users\DELL\OneDrive\Documents\C#\Water Bill\Water Bill\bin\Debug\net8.0-windows\Water Bill.dll
+C:\Users\DELL\OneDrive\Documents\C#\Water Bill\Water Bill\bin\Debug\net8.0-windows\Water Bill.pdb
+C:\Users\DELL\OneDrive\Documents\C#\Water Bill\Water Bill\obj\Debug\net8.0-windows\Water_Bill.Form1.resources
+C:\Users\DELL\OneDrive\Documents\C#\Water Bill\Water Bill\obj\Debug\net8.0-windows\Water Bill.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Documents\C#\Water Bill\Water Bill\obj\Debug\net8.0-windows\Water Bill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Documents\C#\Water Bill\Water Bill\obj\Debug\net8.0-windows\Water Bill.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Documents\C#\Water Bill\Water Bill\obj\Debug\net8.0-windows\Water Bill.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Documents\C#\Water Bill\Water Bill\obj\Debug\net8.0-windows\Water Bill.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Documents\C#\Water Bill\Water Bill\obj\Debug\net8.0-windows\Water Bill.sourcelink.json
+C:\Users\DELL\OneDrive\Documents\C#\Water Bill\Water Bill\obj\Debug\net8.0-windows\Water Bill.dll
+C:\Users\DELL\OneDrive\Documents\C#\Water Bill\Water Bill\obj\Debug\net8.0-windows\refint\Water Bill.dll
+C:\Users\DELL\OneDrive\Documents\C#\Water Bill\Water Bill\obj\Debug\net8.0-windows\Water Bill.pdb
+C:\Users\DELL\OneDrive\Documents\C#\Water Bill\Water Bill\obj\Debug\net8.0-windows\Water Bill.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Documents\C#\Water Bill\Water Bill\obj\Debug\net8.0-windows\ref\Water Bill.dll
+C:\Users\DELL\OneDrive\Documents\C#\Water Bill\Water Bill\obj\Debug\net8.0-windows\Water_Bill.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Documents\C#\Water Bill\Water Bill\obj\Debug\net8.0-windows\Water_Bill.Form2.resources
